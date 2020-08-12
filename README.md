@@ -1,4 +1,4 @@
-# Optional Function Parameters
+# Unused Function Parameters
 
 ## The Problem
 
