@@ -40,6 +40,7 @@ doSomething((*, *, somethingUseful) => {
 // etc.
 ```
 
+- Most explicit, clearly "using up" a parameter without binding it
 - Requires more syntax
 
 ### Placeholder Identifier
@@ -55,4 +56,5 @@ doSomething((_, _, somethingUseful) => {
 });
 ```
 
+- Arguably most natural, other languages use this (C#, Rust, etc.)
 - Any valid identifiers are already valid identifiers, could conflict with existing code
